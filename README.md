@@ -15,6 +15,10 @@
 
 #### 运行方法
 
+`git clone https://github.com/zihaozhaobuaa/snake_pygame.git`
+
+`cd snake_pygame`
+
 `pip install -r requirements.txt`
 
 `python3 ./snake.py` 
